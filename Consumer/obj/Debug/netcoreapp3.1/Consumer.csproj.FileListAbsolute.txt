@@ -1,4 +1,0 @@
-C:\Users\viniciusfernandes\source\repos\TesteRabbit\Consumer\bin\Debug\netcoreapp3.1\Consumer.exe
-C:\Users\viniciusfernandes\source\repos\TesteRabbit\Consumer\obj\Debug\netcoreapp3.1\Consumer.csprojAssemblyReference.cache
-C:\Users\viniciusfernandes\source\repos\TesteRabbit\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfoInputs.cache
-C:\Users\viniciusfernandes\source\repos\TesteRabbit\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfo.cs
