@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5Uuk0VeVRFzhvAauOs7Hzw9MYhoyAkej5AiLx7EGXDBgQo+6RIRl9aEq3o5WQJNaaXymNdxb4HXBWdUU3RzMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viniciusfernandes\\source\\repos\\TesteRabbit\\TestRabbit\\TestRabbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viniciusfernandes\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\viniciusfernandes\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\TestRabbit.exe
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.csprojAssemblyReference.cache
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.AssemblyInfoInputs.cache
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.AssemblyInfo.cs
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\TestRabbit.deps.json
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\TestRabbit.runtimeconfig.json
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\TestRabbit.runtimeconfig.dev.json
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\TestRabbit.dll
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\TestRabbit.pdb
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.csproj.CoreCompileInputs.cache
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.csproj.CopyComplete
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.dll
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.pdb
+C:\Users\viniciusfernandes\source\repos\TesteRabbit\TestRabbit\obj\Debug\netcoreapp3.1\TestRabbit.genruntimeconfig.cache
